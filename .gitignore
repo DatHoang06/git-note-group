@@ -1,0 +1,6 @@
+@"
+pgsql
+secret.txt
+temp.log
+backup/
+" | Set-Content .gitignore
